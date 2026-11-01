@@ -19,9 +19,9 @@ from fpdf import FPDF, HTMLMixin
 # ─────────────────────────────────────────────
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-INPUT_MD   = os.path.join(SCRIPT_DIR, "our_paper", "MAGI_Plus_Draft_v1.md")
-OUTPUT_PDF = os.path.join(SCRIPT_DIR, "our_paper", "MAGI_Plus_Draft_v1.pdf")
-OUTPUT_HTML = os.path.join(SCRIPT_DIR, "our_paper", "MAGI_Plus_Draft_v1.html")
+INPUT_MD   = os.path.join(SCRIPT_DIR, "our_paper", "MAGI_Plus_v1.md")
+OUTPUT_PDF = os.path.join(SCRIPT_DIR, "our_paper", "MAGI_Plus_v1.pdf")
+OUTPUT_HTML = os.path.join(SCRIPT_DIR, "our_paper", "MAGI_Plus_v1.html")
 
 
 # ─────────────────────────────────────────────

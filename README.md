@@ -76,7 +76,7 @@ MAGI+/
 │
 ├── paper/
 │   └── our_paper/
-│       └── MAGI_Plus_Draft_v1.md  # Research paper draft
+│       └── MAGI_Plus_v1.md        # Research paper
 │
 └── notes/                     # Design docs, checklists, summaries
 ```
