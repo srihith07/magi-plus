@@ -393,4 +393,19 @@ Types: ADDED | CHANGED | FIXED | REMOVED | EXPERIMENT | NOTE
 - JMIR Mental Health: PENDING — submit after arXiv ID assigned
 
 ---
+
+## [2026-11-01] — JMIR Mental Health Submission Confirmed
+
+### SUBMITTED
+- Journal: JMIR Mental Health
+- Manuscript tracking number: **JMH ms#115892**
+- Submitted by: Srihith Netha (srinetha001@gmail.com)
+- Status: Under editorial review
+- Expected review timeline: 6–10 weeks
+
+### PENDING
+- arXiv submission: waiting for endorsement from MAGI authors
+  (email sent to biguanqun@mail.tsinghua.edu.cn + aihuang@tsinghua.edu.cn)
+
+---
 <!-- New entries go ABOVE this line -->

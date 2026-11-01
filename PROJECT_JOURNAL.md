@@ -272,7 +272,7 @@ What happened:
 | Phase 3 | Our 5 Extensions | ✅ Complete |
 | Phase 4 | Evaluation & Experiments | ✅ Complete (10 cases) |
 | Phase 5 | Paper Writing | ✅ Complete |
-| Phase 6 | GitHub + Submission | ✅ GitHub live — arXiv/JMIR pending |
+| Phase 6 | GitHub + Submission | ✅ GitHub live · JMIR submitted (JMH ms#115892) |
 
 ---
 
