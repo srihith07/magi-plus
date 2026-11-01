@@ -6,6 +6,7 @@
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![arXiv](https://img.shields.io/badge/Original_MAGI-arXiv:2504.18260-red.svg)](https://arxiv.org/abs/2504.18260)
+[![GitHub](https://img.shields.io/badge/GitHub-srihith07%2Fmagi--plus-black.svg)](https://github.com/srihith07/magi-plus)
 
 ---
 
@@ -87,7 +88,7 @@ MAGI+/
 ### 1. Clone and set up environment
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/magi-plus.git
+git clone https://github.com/srihith07/magi-plus.git
 cd magi-plus
 python -m venv venv
 # Windows:
