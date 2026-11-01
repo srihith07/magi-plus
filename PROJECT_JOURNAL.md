@@ -270,8 +270,9 @@ What happened:
 | Phase 1 | Setup & Foundation | ✅ Complete |
 | Phase 2 | Core MAGI Reproduction (4 agents) | ✅ Complete |
 | Phase 3 | Our 5 Extensions | ✅ Complete |
-| Phase 4 | Evaluation & Experiments | ✅ Complete (4/4 cases) |
-| Phase 5 | Paper Writing | 🔄 Starting Now |
+| Phase 4 | Evaluation & Experiments | ✅ Complete (10 cases) |
+| Phase 5 | Paper Writing | ✅ Complete |
+| Phase 6 | GitHub + Submission | ✅ GitHub live — arXiv/JMIR pending |
 
 ---
 
