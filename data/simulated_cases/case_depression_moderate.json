@@ -1,0 +1,26 @@
+{
+  "case_id": "SIM_DEP_MOD_001",
+  "description": "Simulated participant with moderate depression, no anxiety, no suicide risk",
+  "expected_diagnoses": {
+    "depression": "yes",
+    "generalized_anxiety": "no",
+    "social_anxiety": "no",
+    "suicide_risk": "no"
+  },
+  "expected_phq9_range": [10, 16],
+  "responses": {
+    "DEP_A1a": "Yes, I've been feeling very low and hopeless almost every day.",
+    "DEP_A2a": "Yes, it has been going on for about three weeks.",
+    "DEP_A3a": "Yes, I have no appetite. I've lost weight without trying.",
+    "DEP_A3b": "Yes, I wake up early and can't fall back asleep.",
+    "DEP_A3c": "My wife says I seem very slowed down and quiet.",
+    "DEP_A3d": "I feel exhausted all day even after a full night's sleep.",
+    "DEP_A3e": "Yes, I feel worthless and guilty about small things.",
+    "DEP_A3f": "I have a lot of trouble concentrating at work.",
+    "DEP_A3g": "No, I don't have any thoughts of hurting myself.",
+    "GAD_N1a": "Not really, I don't worry excessively about many things.",
+    "SOC_F1a": "No, social situations don't bother me particularly.",
+    "SUI_B1": "No, I don't wish I was dead.",
+    "SUI_B2": "No, I have no thoughts of killing myself."
+  }
+}

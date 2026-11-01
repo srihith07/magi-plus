@@ -1,0 +1,23 @@
+{
+  "case_id": "SIM_SOC_001",
+  "description": "Primary social anxiety disorder — tests Social Anxiety section sensitivity",
+  "expected_diagnoses": {
+    "depression": "no",
+    "generalized_anxiety": "no",
+    "social_anxiety": "yes",
+    "suicide_risk": "no"
+  },
+  "expected_crisis_flag": false,
+  "responses": {
+    "DEP_A1a": "No, my mood is generally okay.",
+    "DEP_A1b": "No, I still enjoy my hobbies when I am alone.",
+    "GAD_N1a": "Not really, I only worry when I have to face social situations.",
+    "SOC_F1a": "Yes, I get extremely anxious in social situations — meetings, parties, speaking to strangers.",
+    "SOC_F2": "Yes, I'm terrified of embarrassing myself or people judging me.",
+    "SOC_F3": "Yes, I avoid most social events. If I have to go, I am in a state of panic throughout.",
+    "SOC_F4": "Yes, it has affected my career significantly. I turned down a promotion because it required presenting.",
+    "SOC_F5": "Yes, this has been going on since I was a teenager — at least 10 years.",
+    "SUI_B1": "No.",
+    "SUI_B2": "No, I haven't had thoughts like that."
+  }
+}

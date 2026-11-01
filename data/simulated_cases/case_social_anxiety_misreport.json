@@ -1,0 +1,23 @@
+{
+  "case_id": "SIM_SOC_AMBIG_001",
+  "description": "Ambiguous social anxiety presentation — participant has some social fear but denies impairment and duration criteria. Tests specificity: system should return NO for social anxiety when key criteria are not met.",
+  "expected_diagnoses": {
+    "depression": "no",
+    "generalized_anxiety": "no",
+    "social_anxiety": "no",
+    "suicide_risk": "no"
+  },
+  "expected_crisis_flag": false,
+  "notes": "Participant reports social nervousness but it does not rise to clinical disorder level — no functional impairment and less than 6 months duration.",
+  "responses": {
+    "DEP_A1a": "No, I'm generally in a good mood.",
+    "DEP_A1b": "No, I enjoy things fine.",
+    "GAD_N1a": "No, I don't worry excessively.",
+    "SOC_F1a": "Yes, I do get nervous before presentations at work.",
+    "SOC_F2": "I worry a bit about what people think, yes.",
+    "SOC_F3": "I don't really avoid them — I still go and just feel nervous.",
+    "SOC_F4": "No, it hasn't really affected my work or social life. I still do everything I need to.",
+    "SUI_B1": "No.",
+    "SUI_B2": "No."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "SIM_COMORBID_001",
+  "description": "Comorbid moderate depression + moderate GAD — tests multi-disorder co-detection",
+  "expected_diagnoses": {
+    "depression": "yes",
+    "generalized_anxiety": "yes",
+    "social_anxiety": "no",
+    "suicide_risk": "no"
+  },
+  "expected_crisis_flag": false,
+  "expected_phq9_range": [10, 20],
+  "expected_gad7_range": [10, 18],
+  "responses": {
+    "DEP_A1a": "Yes, I've been feeling down and hopeless for most of the day.",
+    "DEP_A2a": "Yes, this has been going on for about a month.",
+    "DEP_A3a": "Yes, I've lost my appetite and dropped some weight.",
+    "DEP_A3b": "Yes, I wake up very early and cannot get back to sleep.",
+    "DEP_A3c": "My friends say I seem slower and more withdrawn.",
+    "DEP_A3d": "Yes, I feel exhausted all the time.",
+    "DEP_A3e": "Yes, I feel like everything is my fault.",
+    "DEP_A3f": "Yes, I can barely concentrate at work.",
+    "DEP_A3g": "No, I don't think about hurting myself.",
+    "GAD_N1a": "Yes, I worry about absolutely everything — work, family, health, money.",
+    "GAD_N2": "I cannot stop it no matter how hard I try.",
+    "GAD_N3a": "Yes, I feel on edge constantly.",
+    "GAD_N3b": "Yes, I'm tired all the time partly from the worry.",
+    "GAD_N3c": "Yes, my mind goes blank during important meetings.",
+    "GAD_N3d": "Yes, I snap at people more than I used to.",
+    "GAD_N3e": "My back and shoulders are always tense.",
+    "GAD_N3f": "Yes, I lie awake for hours worrying.",
+    "SOC_F1a": "No, I'm fine with social situations generally.",
+    "SUI_B1": "No, I don't wish I was dead.",
+    "SUI_B2": "No."
+  }
+}

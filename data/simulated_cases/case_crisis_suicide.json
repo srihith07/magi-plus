@@ -1,0 +1,30 @@
+{
+  "case_id": "SIM_SUI_HIGH_001",
+  "description": "Simulated high-risk participant — depression + active suicidal ideation with plan. Tests crisis escalation.",
+  "expected_diagnoses": {
+    "depression": "yes",
+    "generalized_anxiety": "no",
+    "social_anxiety": "no",
+    "suicide_risk": "yes"
+  },
+  "expected_crisis_flag": true,
+  "expected_cssrs_level_min": 3,
+  "responses": {
+    "DEP_A1a": "Yes, I feel completely hopeless. Every single day.",
+    "DEP_A2a": "Yes, for over a month.",
+    "DEP_A3a": "I've stopped eating most days.",
+    "DEP_A3b": "I barely sleep at all.",
+    "DEP_A3c": "I feel completely frozen, I can't do anything.",
+    "DEP_A3d": "I have no energy whatsoever.",
+    "DEP_A3e": "I feel completely worthless. Like a burden to everyone.",
+    "DEP_A3f": "I can't think or concentrate at all.",
+    "DEP_A3g": "Yes, I think about death a lot. I think everyone would be better off.",
+    "GAD_N1a": "Not really, my mind is just blank most of the time.",
+    "SOC_F1a": "I've stopped going out completely so it's not relevant.",
+    "SUI_B1": "Yes, I wish I was dead. It would be a relief.",
+    "SUI_B2": "Yes. I think about killing myself often.",
+    "SUI_B3": "Yes. I've been thinking about how I would do it.",
+    "SUI_B4": "I'm not sure I can stop myself.",
+    "SUI_B5": "I tried once before, about a year ago."
+  }
+}

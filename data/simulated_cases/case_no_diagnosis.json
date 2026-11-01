@@ -1,0 +1,19 @@
+{
+  "case_id": "SIM_CONTROL_001",
+  "description": "Simulated healthy control participant — no disorders expected. Tests specificity.",
+  "expected_diagnoses": {
+    "depression": "no",
+    "generalized_anxiety": "no",
+    "social_anxiety": "no",
+    "suicide_risk": "no"
+  },
+  "expected_crisis_flag": false,
+  "responses": {
+    "DEP_A1a": "No, I've been feeling pretty good lately.",
+    "DEP_A1b": "No, I still enjoy the things I normally do.",
+    "GAD_N1a": "Not excessively. I have normal day-to-day concerns but nothing overwhelming.",
+    "SOC_F1a": "No, I'm comfortable in social situations.",
+    "SUI_B1": "No, not at all.",
+    "SUI_B2": "No."
+  }
+}

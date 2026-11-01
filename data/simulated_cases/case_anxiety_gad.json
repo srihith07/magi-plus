@@ -1,0 +1,34 @@
+{
+  "case_id": "SIM_GAD_MOD_001",
+  "description": "Simulated participant with moderate generalized anxiety, mild depression",
+  "expected_diagnoses": {
+    "depression": "yes",
+    "generalized_anxiety": "yes",
+    "social_anxiety": "no",
+    "suicide_risk": "no"
+  },
+  "expected_gad7_range": [10, 15],
+  "responses": {
+    "DEP_A1a": "Sometimes I feel down but not every day.",
+    "DEP_A1b": "I've lost some interest in hobbies I used to enjoy.",
+    "DEP_A2a": "Yes, about 2 weeks.",
+    "DEP_A3a": "My appetite changes but nothing dramatic.",
+    "DEP_A3b": "Yes, I have trouble sleeping because I worry.",
+    "DEP_A3c": "Not really, my speed is normal.",
+    "DEP_A3d": "I feel tired often.",
+    "DEP_A3e": "Sometimes I feel I should be doing better.",
+    "DEP_A3f": "Yes, concentration is difficult with all the worry.",
+    "DEP_A3g": "No, nothing like that.",
+    "GAD_N1a": "Yes, I worry constantly — about work, health, family, everything.",
+    "GAD_N2": "I try to stop but it just keeps going. I can't control it.",
+    "GAD_N3a": "Yes, I feel on edge most of the time.",
+    "GAD_N3b": "I tire very easily, yes.",
+    "GAD_N3c": "My mind goes blank when I'm stressed.",
+    "GAD_N3d": "Yes, I get irritated more easily than I used to.",
+    "GAD_N3e": "My shoulders and neck are constantly tense.",
+    "GAD_N3f": "Yes, I lie awake worrying for hours.",
+    "SOC_F1a": "No, I'm fairly comfortable in social settings.",
+    "SUI_B1": "No, I don't have those thoughts.",
+    "SUI_B2": "No."
+  }
+}

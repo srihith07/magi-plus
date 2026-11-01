@@ -1,0 +1,28 @@
+{
+  "case_id": "SIM_DEP_MILD_001",
+  "description": "Mild depression — tests recommendation tier (should recommend self-help, not psychiatric consultation)",
+  "expected_diagnoses": {
+    "depression": "yes",
+    "generalized_anxiety": "no",
+    "social_anxiety": "no",
+    "suicide_risk": "no"
+  },
+  "expected_crisis_flag": false,
+  "expected_phq9_range": [5, 12],
+  "expected_recommendation_tier": "self_help",
+  "responses": {
+    "DEP_A1a": "Yes, I've been feeling a bit down lately.",
+    "DEP_A2a": "Yes, it's been about two and a half weeks.",
+    "DEP_A3a": "Slightly — I've been eating a little less than usual.",
+    "DEP_A3b": "A bit, I take longer to fall asleep but I get through the night.",
+    "DEP_A3c": "No, my movements seem normal.",
+    "DEP_A3d": "Yes, I do feel more tired than usual.",
+    "DEP_A3e": "Sometimes I feel a bit guilty but nothing too severe.",
+    "DEP_A3f": "Slightly, but I can still manage my work tasks.",
+    "DEP_A3g": "No, absolutely not.",
+    "GAD_N1a": "Not particularly, just normal day-to-day things.",
+    "SOC_F1a": "No, social situations are fine.",
+    "SUI_B1": "No.",
+    "SUI_B2": "No."
+  }
+}

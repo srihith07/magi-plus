@@ -1,0 +1,27 @@
+{
+  "case_id": "SIM_GAD_PURE_001",
+  "description": "Pure GAD without depression — tests specificity: GAD positive, depression negative. Validates branching logic correctly distinguishes the two.",
+  "expected_diagnoses": {
+    "depression": "no",
+    "generalized_anxiety": "yes",
+    "social_anxiety": "no",
+    "suicide_risk": "no"
+  },
+  "expected_crisis_flag": false,
+  "expected_gad7_range": [8, 18],
+  "responses": {
+    "DEP_A1a": "No, I wouldn't say I feel depressed.",
+    "DEP_A1b": "No, I still enjoy my hobbies and activities.",
+    "GAD_N1a": "Yes, I worry constantly about everything — my health, finances, whether I locked the door, my children's safety.",
+    "GAD_N2": "Absolutely cannot stop. It runs in the background 24 hours a day.",
+    "GAD_N3a": "Yes, very much on edge.",
+    "GAD_N3b": "Yes, I feel drained by all the worrying.",
+    "GAD_N3c": "Sometimes my mind goes blank when I'm overwhelmed.",
+    "GAD_N3d": "Yes, I get snappy when the worry peaks.",
+    "GAD_N3e": "My neck and jaw are constantly tense.",
+    "GAD_N3f": "Yes, I struggle to sleep because my mind won't stop.",
+    "SOC_F1a": "No, it's not social situations — I worry about everything, not just people.",
+    "SUI_B1": "No, never.",
+    "SUI_B2": "No."
+  }
+}

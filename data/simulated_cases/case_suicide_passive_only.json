@@ -1,0 +1,29 @@
+{
+  "case_id": "SIM_SUI_PASSIVE_001",
+  "description": "Passive suicidal ideation only (wishes to be dead, no plan/intent) — tests C-SSRS level 1, moderate risk, no crisis flag but elevated recommendation",
+  "expected_diagnoses": {
+    "depression": "yes",
+    "generalized_anxiety": "no",
+    "social_anxiety": "no",
+    "suicide_risk": "yes"
+  },
+  "expected_crisis_flag": false,
+  "expected_cssrs_level": 1,
+  "expected_recommendation_tier": "outpatient_therapy",
+  "responses": {
+    "DEP_A1a": "Yes, I've been feeling very low most days.",
+    "DEP_A2a": "Yes, about three weeks now.",
+    "DEP_A3a": "Yes, I've barely been eating.",
+    "DEP_A3b": "Yes, I wake up early every morning.",
+    "DEP_A3c": "My colleagues say I seem slower.",
+    "DEP_A3d": "Yes, I'm exhausted all the time.",
+    "DEP_A3e": "Yes, I feel worthless.",
+    "DEP_A3f": "Yes, I can't concentrate at all.",
+    "DEP_A3g": "Sometimes I think it would be easier if I just wasn't here. But I would never do anything.",
+    "GAD_N1a": "Not excessively, just the usual day-to-day.",
+    "SOC_F1a": "No, social situations are fine.",
+    "SUI_B1": "Yes, sometimes I wish I was dead. It would be a relief from all this.",
+    "SUI_B2": "No, I don't actually want to kill myself.",
+    "SUI_B5": "No, I've never attempted anything."
+  }
+}
